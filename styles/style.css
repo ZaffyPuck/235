@@ -74,7 +74,7 @@ div.project{
     text-align: center;
 }
 .bannar{
-    background-image: url(/images/Seattle.JPG);
+    background-image: url(../images/Seattle.JPG);
     background-size: cover;
     width: 100%;
     height: 100vh;
